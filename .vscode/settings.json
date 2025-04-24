@@ -1,0 +1,21 @@
+{
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": ".rules/01_project_context_backend.md"
+        },
+        {
+            "file": ".rules/02_backend_symfony_rules.md"
+        },
+        {
+            "file": ".rules/03_database_rules.md"
+        },
+        {
+            "file": ".rules/04_coding_style_general.md"
+        },
+        {
+            "file": ".rules/05_prompting_backend.md"
+        }
+    ],
+    "php.version": "8.2",
+    "php.executablePath": "/usr/local/bin/php"
+}
